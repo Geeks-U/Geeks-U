@@ -31,6 +31,5 @@
 
 ## 📫 联系方式
 
-- 💬 邮箱：geeks-u@example.com（替换为你自己的）
-- 🌱 博客：[博客链接（可选）]
+- 💬 邮箱：cncdre11@outlook.com
 
